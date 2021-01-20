@@ -21,7 +21,7 @@ divPressed   = false,
 pointPressed = false;
 
 var value = "0"
-var test = "1"
+var test = "1234"
 
 let labelInputMax = 9
 
